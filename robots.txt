@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-s2uu3g.salamcuan.sbs/sitemap.xml
